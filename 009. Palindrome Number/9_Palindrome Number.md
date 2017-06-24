@@ -10,16 +10,14 @@ You could also try reversing an integer. However, if you have solved the problem
 
 There is a more generic way of solving this problem.
 
-### TestCase
- ##### 1. Intput
- ```
-0
--2147483648
-12321
+## 2. 字符串法
 
-```
- #### 2.Output
-```
- true
- false
- true```
+### 复杂度
+时间复杂度O(n)  <br>
+空间复杂度O(n)
+
+### 思路
+参考第七题
+
+### 注意
+***

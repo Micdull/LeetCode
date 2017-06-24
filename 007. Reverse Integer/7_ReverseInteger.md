@@ -36,4 +36,4 @@ The input is assumed to be a 32-bit signed integer. Your function should return 
 先将数字转化为字符串，然后将字符串倒序输出，并转回数字
 
 ### 注意
-注意使用long接受可能溢出的记过
+注意使用long接受可能溢出的结果
