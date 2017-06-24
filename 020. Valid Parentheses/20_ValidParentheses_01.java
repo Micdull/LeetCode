@@ -29,8 +29,3 @@ public class Solution {
         return stack.isEmpty();
     }
 }
-
-/** Solution
- *  基本思路：
- *      取第一个字符串的第一个字符，依次增加一个字符和所有字符串对比
- */
