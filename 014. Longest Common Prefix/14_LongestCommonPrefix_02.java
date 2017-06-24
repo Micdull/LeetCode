@@ -12,8 +12,3 @@ public class Solution {
         return prefix;
     }
 }
-
-/** Solution
- *  基本思路：
- *      取第一个字符串，依次减少一个字符和所有字符串对比
- */
