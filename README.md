@@ -9,8 +9,8 @@
 |>|9| Palindrome Number | Easy | 2017-06-24|
 |>|13| Roman to Integer | Easy | 2017-06-24|
 |>|14| Longest Common Prefix | Easy | 2017-06-24|
-||20| Valid Parentheses | Easy | 2017-06-24|
-||21| Merge Two Sorted Lists | Easy |2017-06-22|
+||20| Valid Parentheses | Easy | |
+||21| Merge Two Sorted Lists | Easy ||
 ||---| ---- | ----- |
 ||---| ---- | ----- |
 ||617| Merge Two Binary Trees | Easy |
