@@ -11,6 +11,15 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 </pre>
 
+#### Similar Questions 
+- 3Sum 
+- 4Sum 
+- Two Sum II - Input array is sorted 
+- Two Sum III - Data structure design 
+- Subarray Sum Equals K 
+- Two Sum IV - Input is a BST 
+---
+
 ## 1. 暴力法 Brute Force
 
 ### 复杂度
