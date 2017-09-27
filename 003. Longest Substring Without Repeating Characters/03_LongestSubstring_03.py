@@ -1,9 +1,9 @@
 '''
-Create Date: 2017-09-23 17:41:45
-Descripton:  
+Create Date : 2017-09-23 17:41:45
+Runtime     : 85 ms
+Descripton  :  
     1. 遍历一遍，更新左边界(左边界：找到已遍历的字符，更新左边界为当前位置的下一位).每次获取max长度.
-    2 .Runtime: 85 ms
-    3. enumerate:
+    2. enumerate:
         enumerate() 函数用于将一个可遍历的数据对象(如列表、元组或字符串)组合为一个索引序列，
     同时列出数据和数据下标
         用法:
