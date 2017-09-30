@@ -36,6 +36,6 @@ Note: "aba" is also a valid answer.
 需要注意的是， Python 和 Java 的字符串和 C++ 的不一样，没有 `\0`  结尾，用 `Manacher's ALGORITHM` 的时候是不一样的。
 
 ## **参考资料**：
-http://blog.csdn.net/liuwei0604/article/details/50414542
-http://www.cnblogs.com/bitzhuwei/p/Longest-Palindromic-Substring-Par-I.html
-http://www.cnblogs.com/bitzhuwei/p/Longest-Palindromic-Substring-Part-II.html
+- http://blog.csdn.net/liuwei0604/article/details/50414542
+- http://www.cnblogs.com/bitzhuwei/p/Longest-Palindromic-Substring-Par-I.html
+- http://www.cnblogs.com/bitzhuwei/p/Longest-Palindromic-Substring-Part-II.html
