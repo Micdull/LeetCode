@@ -1,3 +1,8 @@
+/** 
+ *  Integer.MAX_VALUE = 2147483647
+ *  Integer.MIN_VALUE = -2147483648
+ */
+
 public class Solution {
     public int reverse(int x) {
         long rtn = 0;//存儲應大於需要保存的數值
@@ -13,7 +18,4 @@ public class Solution {
 }
 
 
-/** 
- *  Integer.MAX_VALUE = 2147483647
- *  Integer.MIN_VALUE = -2147483648
- */
+

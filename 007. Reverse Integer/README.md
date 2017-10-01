@@ -1,14 +1,18 @@
-## 7. Reverse Integer 反转整数
+## 7. Reverse Integer 反转整数（Easy）
 
 Reverse digits of an integer.
-### Example:
+### **Example**:
 ```
 Example1: x = 123, return 321
 Example2: x = -123, return -321
 ```
-#### Note:
+#### **Note**:
 The input is assumed to be a 32-bit signed integer. Your function should return 0 when the reversed integer overflows.
 
+### **Similar Questions**
+- String to Integer (atoi) 
+
+---
 ## 1. 模十法
 
 ### 复杂度
